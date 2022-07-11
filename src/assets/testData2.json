@@ -1,0 +1,93 @@
+[
+    {
+        "id": 3,
+        "exercise": null,
+        "day": 1,
+        "exercise_text": "Плаванье",
+        "user": 1
+    },
+    {
+        "id": 4,
+        "exercise": null,
+        "day": 1,
+        "exercise_text": "Бег",
+        "user": 1
+    },
+    {
+        "id": 5,
+        "exercise": null,
+        "day": 2,
+        "exercise_text": "Отдых",
+        "user": 1
+    },
+    {
+        "id": 6,
+        "exercise": null,
+        "day": 3,
+        "exercise_text": "Подтягивание",
+        "user": 1
+    },
+    {
+        "id": 7,
+        "exercise": null,
+        "day": 4,
+        "exercise_text": "Отдых",
+        "user": 1
+    },
+    {
+        "id": 8,
+        "exercise": null,
+        "day": 5,
+        "exercise_text": "Бег",
+        "user": 1
+    },
+    {
+        "id": 9,
+        "exercise": null,
+        "day": 6,
+        "exercise_text": "Отдых",
+        "user": 1
+    },
+    {
+        "id": 10,
+        "exercise": null,
+        "day": 7,
+        "exercise_text": "Отдых",
+        "user": 1
+    },
+    {
+        "id": 11,
+        "exercise": "Подъем тяжестей",
+        "day": 3,
+        "exercise_text": null,
+        "user": 1
+    },
+    {
+        "id": 12,
+        "exercise": "Подъем тяжестей",
+        "day": 1,
+        "exercise_text": "Сон",
+        "user": 1
+    },
+    {
+        "id": 15,
+        "exercise": "Подъем тяжестей",
+        "day": 2,
+        "exercise_text": "Сщтыщдюдщп",
+        "user": 1
+    },
+    {
+        "id": 17,
+        "exercise": null,
+        "day": 2,
+        "exercise_text": "Сон",
+        "user": 1
+    },
+    {
+        "id": 18,
+        "exercise": null,
+        "day": 3,
+        "exercise_text": "Бег",
+        "user": 1
+    }
+]

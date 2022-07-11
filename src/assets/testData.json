@@ -1,0 +1,65 @@
+[
+    {
+        "id": 22,
+        "date_of_check": "2022-06-21",
+        "person_weight": 58,
+        "person_dream": 6,
+        "person_pulse": 86,
+        "person_steps_per_day": 21873,
+        "persons_data": 1
+    },
+    {
+        "id": 11,
+        "date_of_check": "2022-06-05",
+        "person_weight": 59,
+        "person_dream": 8,
+        "person_pulse": 89,
+        "person_steps_per_day": 9426,
+        "persons_data": 1
+    },
+    {
+        "id": 6,
+        "date_of_check": "2022-06-04",
+        "person_weight": 57,
+        "person_dream": 7,
+        "person_pulse": 89,
+        "person_steps_per_day": 11234,
+        "persons_data": 1
+    },
+    {
+        "id": 5,
+        "date_of_check": "2022-06-03",
+        "person_weight": 58,
+        "person_dream": null,
+        "person_pulse": 100,
+        "person_steps_per_day": 9203,
+        "persons_data": 1
+    },
+    {
+        "id": 7,
+        "date_of_check": "2022-06-02",
+        "person_weight": 56,
+        "person_dream": 8,
+        "person_pulse": 87,
+        "person_steps_per_day": 8213,
+        "persons_data": 1
+    },
+    {
+        "id": 8,
+        "date_of_check": "2022-06-01",
+        "person_weight": 61,
+        "person_dream": 8,
+        "person_pulse": 95,
+        "person_steps_per_day": 4221,
+        "persons_data": 1
+    },
+    {
+        "id": 9,
+        "date_of_check": "2022-05-30",
+        "person_weight": 56,
+        "person_dream": 5,
+        "person_pulse": 76,
+        "person_steps_per_day": 24112,
+        "persons_data": 1
+    }
+]
